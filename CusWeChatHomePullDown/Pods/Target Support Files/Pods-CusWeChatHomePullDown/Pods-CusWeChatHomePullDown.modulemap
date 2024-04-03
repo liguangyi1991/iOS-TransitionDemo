@@ -1,0 +1,6 @@
+framework module Pods_CusWeChatHomePullDown {
+  umbrella header "Pods-CusWeChatHomePullDown-umbrella.h"
+
+  export *
+  module * { export * }
+}

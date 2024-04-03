@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CWLateralSlideDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  pod 'LookinServer', '1.2.6', :configurations => ['Debug']
+
+  # Pods for CWLateralSlideDemo
+
+end

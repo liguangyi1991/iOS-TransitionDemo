@@ -1,0 +1,18 @@
+PODS:
+  - LookinServer (1.2.6):
+    - LookinServer/Core (= 1.2.6)
+  - LookinServer/Core (1.2.6)
+
+DEPENDENCIES:
+  - LookinServer (= 1.2.6)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - LookinServer
+
+SPEC CHECKSUMS:
+  LookinServer: de929b55f8fa2e241c18c39af3f900eaa9166389
+
+PODFILE CHECKSUM: ba36c1fec9f5f7001708502320d003c8f07fc03b
+
+COCOAPODS: 1.12.1
